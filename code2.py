@@ -1,4 +1,4 @@
-#sum of all the multiples of 3 or 5 below 1000?
+#By considering the terms in the fibonacci sequence whoe values do not exceed four million, find the sum of the even valued terms?
 set1 = set()
 i = 0
 total = 0
